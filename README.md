@@ -1,0 +1,1 @@
+This is a cloned project of [React example with MindAR](https://github.com/hiukim/mind-ar-js-react) with customization for demo of [Cloned MindAR support Gzip compression and React integration](https://github.com/rx925/forked-mind-ar-js)
